@@ -9,3 +9,5 @@ index file
 Create layout, content, text for the website, 
 Structure and style the page
 Download HTML, CSS and JavaScript Logo to Images Folder. 
+
+https://andyng0712.github.io/Coursework-Week2/index.html
