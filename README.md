@@ -7,3 +7,5 @@ Create index.html and link both css files to index.html
 
 index file
 Create layout, content, text for the website, 
+Structure and style the page
+Download HTML, CSS and JavaScript Logo to Images Folder. 
